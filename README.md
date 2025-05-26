@@ -31,8 +31,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd local-loyalty-rewards
+git clone https://github.com/DevAmati/Local-Loyalty.git
+cd Local-Loyalty
 ```
 
 2. Install dependencies:
@@ -99,5 +99,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/local-loyalty-rewards](https://github.com/yourusername/local-loyalty-rewards) 
+DevAmati - [@DevAmati](https://github.com/DevAmati)
+Project Link: [https://github.com/DevAmati/Local-Loyalty](https://github.com/DevAmati/Local-Loyalty) 
